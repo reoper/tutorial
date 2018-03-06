@@ -1,3 +1,3 @@
-console.log('BBBBBBB');
+console.log('CCCCCCCC');
 
 console.log('feature-Aブランチで追加');
